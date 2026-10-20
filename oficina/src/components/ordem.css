@@ -1,0 +1,16 @@
+
+.ordem {
+  background-color: white;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+}
+
+.concluida {
+  background-color: lightgreen;
+}
+
+.botoes {
+  display: flex;
+  margin-top: 10px;
+}

@@ -1,0 +1,24 @@
+{
+  "name": "oficina-web2",
+  "version": "1.0.0",
+  "description": "Atividade avaliativa de web 2 utilizando react para criar uma aplicação de uma oficina fictícia que enfrenta problemas de anotar as ordens de serviço num caderno e perder conta do que está pronto e do que não está.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Theusd7/Oficina-WEB2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Theusd7/Oficina-WEB2/issues"
+  },
+  "homepage": "https://github.com/Theusd7/Oficina-WEB2#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
